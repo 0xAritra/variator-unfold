@@ -1,0 +1,60 @@
+body{
+  background: black;
+
+}
+
+.grad{
+  height : 480px;
+  width : 45%;
+  margin-top: 60px;
+  margin-left:auto;
+  margin-right: auto;
+  background: linear-gradient(to bottom, #86127E 0%, #5001A3 100%);
+  border-radius: 50px;
+
+}
+.input-feild{
+  background: black;
+  color: white;
+  border : 3px solid purple;
+  padding:15px;
+  border-radius: 50px;
+  width : 90%;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: 'Manrope', sans-serif;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.formm{
+  padding : 30px;
+}
+h2{
+  margin-left: 20px;
+  margin-right:20px;
+  font-size: 17px;
+  color: white;
+  font-weight: bold;
+  margin-bottom:20px;
+  font-family: 'Manrope', sans-serif;
+}
+.submit_button{
+  margin-top: 20px;
+  background: black;
+  color: white;
+  border : 3px solid purple;
+  padding:15px;
+  border-radius: 50px;
+  width : 25%;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Manrope', sans-serif;
+  margin-top:23px;
+  text-align: center;
+}
+
+
+#test{
+  height:100px;
+}
